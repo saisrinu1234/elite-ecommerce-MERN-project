@@ -1,0 +1,99 @@
+{
+      imageUrl: "mobiles\images (3).jpg",
+      name: "NOTHING Phone 3a",
+      price: 21500,
+      discount: "15% OFF",
+},
+{
+      imageUrl: "mobiles\images (2).jpg,
+      name: "Moto G85",
+      price: 19500,
+      discount: "23% OFF",
+},
+{
+      imageUrl: "mobiles\images (1).jpg",
+      name: "Nokia S55e",
+      price: 35000,
+      discount: "15% OFF",
+},
+{
+      imageUrl: "mobiles\images.jpg",
+      name: "iPhone 12 + Airpods Pro",
+      price: 76000,
+      discount: "20% OFF",
+},
+{
+      imageUrl: "mobiles\download (1).jpg",
+      name: "iPhone 16",
+      price: 125000,
+      discount: "13% OFF",
+},
+
+
+{
+      imageUrl: "mobiles\SAMSUNG A55.webp",
+      name: "Sanmsung A55",
+      price: 38000,
+      discount: "24% OFF",
+},
+
+{
+      imageUrl: "mobiles\POCO X8 Pro.webp",
+      name: "POCO X8 Pro",
+      price: 31000,
+      discount: "14% OFF",
+},
+
+
+{
+      imageUrl: "mobiles\SAMSUNG S26 Ultra.webp",
+      name: "SAMSUNG S26 Ultra",
+      price: 138000,
+      discount: "20% OFF",
+},
+
+
+{
+      imageUrl: "mobiles\AI Plus 1.webp",
+      name: "AI Plus 1",
+      price: 9899,
+      discount: "13% OFF",
+},
+
+
+{
+      imageUrl: "mobiles\REDMI A5.webp",
+      name: "REDMI A5",
+      price: 17000,
+      discount: "18% OFF",
+},
+
+{
+      imageUrl: "mobiles\MOTO EDGE 70 Fusion.webp",
+      name: "MOTO EDGE 70 Fusion",
+      price: 21999,
+      discount: "23% OFF",
+},
+
+{
+      imageUrl: "mobiles\SAMSUNG M35.webp",
+      name: "MOTO EDGE 70 Fusion",
+      price: 34999,
+      discount: "38% OFF",
+},
+
+{
+      imageUrl: "mobiles\OPPO K13.webp",
+      name: "OPPO K13",
+      price: 13999,
+      discount: "11% OFF",
+},
+
+{
+      imageUrl: "mobiles\ACER SUPER ZX.webp",
+      name: "ACER SUPER ZX",
+      price: 67999,
+      discount: "43% OFF",
+},
+
+

@@ -1,0 +1,152 @@
+const products = [
+  {
+    imageUrl: "fashion/kurthi.jpeg",
+    name: "Kurthi",
+    price: 1500,
+    discount: "20% OFF"
+  },
+  {
+    imageUrl: "fashion/y.jpeg",
+    name: "Yellow Dress",
+    price: 1200,
+    discount: "25% OFF"
+  },
+  {
+    imageUrl: "fashion/red.jpeg",
+    name: "Red Outfit",
+    price: 1400,
+    discount: "30% OFF"
+  },
+  {
+    imageUrl: "fashion/multi.jpeg",
+    name: "Multi Color Dress",
+    price: 1600,
+    discount: "18% OFF"
+  },
+  {
+    imageUrl: "fashion/ck.jpeg",
+    name: "CK Style Outfit",
+    price: 2000,
+    discount: "22% OFF"
+  },
+  {
+    imageUrl: "fashion/ethnic.jpeg",
+    name: "Ethnic Wear",
+    price: 2500,
+    discount: "28% OFF"
+  },
+  {
+    imageUrl: "fashion/glass.jpeg",
+    name: "Stylish Glass Cocktail",
+    price: 800,
+    discount: "35% OFF"
+  },
+
+  // 🔥 WEBP ITEMS
+
+  {
+    imageUrl: "fashion/embriodkurtha.webp",
+    name: "Embroidered Kurtha",
+    price: 2200,
+    discount: "25% OFF"
+  },
+  {
+    imageUrl: "fashion/blendethnic.webp",
+    name: "Blend Ethnic Wear",
+    price: 2100,
+    discount: "20% OFF"
+  },
+  {
+    imageUrl: "fashion/cotenkurta.webp",
+    name: "Cotton Kurta",
+    price: 1800,
+    discount: "18% OFF"
+  },
+  {
+    imageUrl: "fashion/rayonkurthi.webp",
+    name: "Rayon Kurthi",
+    price: 1700,
+    discount: "22% OFF"
+  },
+  {
+    imageUrl: "fashion/womenkurtha.webp",
+    name: "Women Kurtha",
+    price: 2000,
+    discount: "24% OFF"
+  },
+  {
+    imageUrl: "fashion/kurtha.webp",
+    name: "Classic Kurtha",
+    price: 1900,
+    discount: "20% OFF"
+  },
+  {
+    imageUrl: "fashion/cottenkurti.webp",
+    name: "Cotton Kurti",
+    price: 1600,
+    discount: "15% OFF"
+  },
+  {
+    imageUrl: "fashion/rayonkurtha.webp",
+    name: "Rayon Kurtha",
+    price: 1750,
+    discount: "18% OFF"
+  },
+  {
+    imageUrl: "fashion/ethnic.webp",
+    name: "Traditional Ethnic",
+    price: 2300,
+    discount: "26% OFF"
+  },
+
+  // 🆕 NEWLY ADDED ITEMS
+
+  {
+    imageUrl: "fashion/check.webp",
+    name: "Check Shirt",
+    price: 1300,
+    discount: "20% OFF"
+  },
+  {
+    imageUrl: "fashion/solid.webp",
+    name: "Solid Shirt",
+    price: 1200,
+    discount: "18% OFF"
+  },
+  {
+    imageUrl: "fashion/graphic.webp",
+    name: "Graphic T-Shirt",
+    price: 1100,
+    discount: "25% OFF"
+  },
+  {
+    imageUrl: "fashion/coler.webp",
+    name: "Colorful Shirt",
+    price: 1400,
+    discount: "22% OFF"
+  },
+  {
+    imageUrl: "fashion/menslim.webp",
+    name: "Men Slim Fit",
+    price: 1500,
+    discount: "19% OFF"
+  },
+  {
+    imageUrl: "fashion/fitsriped.webp",
+    name: "Striped Fit Shirt",
+    price: 1350,
+    discount: "21% OFF"
+  },
+  {
+    imageUrl: "fashion/fitsolid.webp",
+    name: "Fit Solid Shirt",
+    price: 1250,
+    discount: "20% OFF"
+  },
+  {
+    imageUrl: "fashion/regular.webp",
+    name: "Regular Fit Shirt",
+    price: 1150,
+    discount: "17% OFF"
+  }
+];
